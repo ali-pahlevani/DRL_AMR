@@ -1,8 +1,8 @@
 # Mobile Robot DRL Navigation
 
 ## 💡 𝗠𝘆 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻𝘀:
-#### Adapted the repository to work seamlessly with ROS 2 𝗛𝘂𝗺𝗯𝗹𝗲 (originally designed for ROS 2 𝗙𝗼𝘅𝘆), with minimal changes (Not DONE Yet)
-#### Planning to extend the setup by integrating 𝘃𝗶𝘀𝗶𝗼𝗻-𝗯𝗮𝘀𝗲𝗱 sensors, which will complement the existing LiDAR sensor for enhanced navigation capabilities (Not DONE Yet)
+#### 1. Adapted the repository to work seamlessly with ROS 2 𝗛𝘂𝗺𝗯𝗹𝗲 (originally designed for ROS 2 𝗙𝗼𝘅𝘆), with minimal changes (Not DONE Yet)
+#### 2. Planning to extend the setup by integrating 𝘃𝗶𝘀𝗶𝗼𝗻-𝗯𝗮𝘀𝗲𝗱 sensors, which will complement the existing LiDAR sensor for enhanced navigation capabilities (Not DONE Yet)
 
 ### A ROS2 framework for DRL autonomous navigation on mobile robots with LiDAR.
 <p float="left">
