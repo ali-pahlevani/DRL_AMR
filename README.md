@@ -35,7 +35,7 @@ Below are a few examples of what the current framework can be used for:
 * Deploy an existing model on a real robot to perform navigation and obstacle avoidance
 * Evaluate the effect of different hyperparameters on training time and performance
 * Experiment with additional capabilities (backward motion, frame stacking)
-* Implement your own DRL algorithm (currently includes: DQN, DDPG, TD3)
+* Implement your own DRL algorithm (currently includes: DQN, DDPG, TD3) 
 
 # **Installation**
 
