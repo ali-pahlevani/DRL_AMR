@@ -5,7 +5,7 @@
 * 2. Planning to extend the setup by integrating 𝘃𝗶𝘀𝗶𝗼𝗻-𝗯𝗮𝘀𝗲𝗱 sensors, which will complement the existing LiDAR sensor for enhanced navigation capabilities **(Not DONE Yet)**
   
 ---
-
+ 
 ### A ROS2 framework for DRL autonomous navigation on mobile robots with LiDAR.
 <p float="left">
  <img src="media/simulation.gif" width="400">
